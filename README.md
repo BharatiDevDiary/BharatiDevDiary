@@ -1,4 +1,4 @@
-![logo](https://github.com/BharatiDevDiary/BharatiDevDiary/blob/main/Banner.png)
+![logo](https://github.com/BharatiDevDiary/BharatiDevDiary/blob/main/Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bharati Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
